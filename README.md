@@ -1,5 +1,8 @@
 # maps-app
 
+## APP URL
+https://vue-maps-a4482.web.app/#/
+
 ## Project setup
 ```
 yarn install
